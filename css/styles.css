@@ -1,0 +1,156 @@
+h1{
+  margin-top: 35%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+h2{
+  text-align: center;
+  position: relative;
+  left: 25%;
+  top: 25%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem;
+  color: #FFFFFF;
+  width: 50%;
+  height: 50%;
+}
+
+h3{
+  font-family: 'Open Sans-Bold', sans-serif;
+  font-size: 2.5rem;
+}
+
+p{
+  font-family: 'Muli', sans-serif;
+  color: #8f8f8f;
+}
+
+a{
+  font-family: 'Muli', sans-serif;
+}
+
+i{
+  size: 100px;
+}
+
+.bg-image{
+  background-image: url("http://i.toolsandtoys.net.s3.amazonaws.com/wp-uploads/PA050283.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 883px;
+}
+
+a:not([href]):not([tabindex]) {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.application:hover{
+  color: #FFFFFF !important;
+}
+
+.navbar-brand{
+  font-family: 'Prompt', sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #FFFFFF;
+}
+
+.navbarword{
+  color: #FFFFFF;
+}
+
+.btn{
+  margin-top: 10%;
+}
+
+#features{
+  padding: 20% 15%;
+  background-color: #FFFFFF;
+}
+
+.feature-div{
+  text-align: center;
+  margin: 5% auto 5% auto;
+}
+
+.fa-4x{
+  padding-bottom: 10%;
+}
+
+.lupa:hover{
+  color: #407088;
+}
+
+.compartir:hover{
+  color: #e15249;
+}
+
+.precio:hover{
+  color: #85bb65;
+}
+
+.first-slide{
+  background-image: url(http://blog.perfectaudience.com/wp-content/uploads/2016/09/photo-634069_1920.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.application-a{
+  font-weight: bolder;
+}
+
+.second-slide{
+  background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/SsLYSh45lizrfzvep/videoblocks-young-african-man-shopping-online-with-smart-phone-using-digital-tablet-african-man-sitting-on-the-couch-and-online-shopping-using-tablet-and-smart-phone_sbxgn-cew_thumbnail-full01.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.third-slide{
+  background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/NIb05zprg/videoblocks-young-woman-scanning-bar-code-with-mobile-phone-on-wine-bottle-in-grocery-store_spjl7l51z_thumbnail-full01.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+#cta{
+  text-align: center;
+}
+
+.last-h3{
+  font-size: 3.5rem;
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+
+.last-btn-apple{
+  margin-bottom: 12%;
+  width: 130px;
+}
+
+.last-btn-android{
+  margin-bottom: 12%;
+}
+
+.flecha:hover{
+  color: gray;
+}
+
+#footer{
+  text-align: center;
+}
